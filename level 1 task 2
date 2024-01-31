@@ -1,0 +1,146 @@
+<html>
+    <head>
+        <title>PAGE</title>
+    </head>
+    <body>
+        <style>
+            body{
+                border:0.3cm solid white;
+                background-color:rgba(255, 192, 203, 0.467); 
+            }
+            .contentright{
+                width:70%;
+                float:left;
+                margin-right:1% ;
+                margin-left:2%;
+                }
+            p.head{
+                color:black;
+                text-align: center;
+                font-size: medium;
+                font-weight: 500;
+                font-family: sans-serif;
+            }
+            p.title{
+                color:black;
+                text-align:center;
+                font-size: small;
+            }
+            p.description1{
+                margin-left:0.7cm ;
+                margin-right:0.5cm ;
+                line-height: 0.5cm;
+                background-color: white;
+                border:1px solid white;
+                padding-right:50px ;}
+            
+                p.description2{
+                margin-left:0.7cm ;
+                margin-right:0.5cm ;
+                line-height: 0.5cm;
+                background-color: white;
+                border:1px solid white;
+            }
+            p.last{
+                margin-left:0.7cm ;
+                margin-right: 0.7cm;
+                color:white;
+                background-color:rgba(220, 220, 220, 0.725);
+            }
+           
+            
+        
+            .contentleft{
+                width:25%;
+                float:left; 
+                background-color: white;
+                border:1px solid white; ;   
+                 }
+            .footer{
+                clear: both;
+            }
+             .h6{
+                background-color: gainsboro;
+                border-left:1cm solid gainsboro ;
+             }
+            .tags{    
+                background-color: white;    
+            }
+            .comment{
+                float:right;
+            } 
+              </style>
+          <div>   
+            
+        <p class="head" style="font-family: Lucida calligraphy;"><b><br>MY BLOG</b></p>
+        <p class="title">Welcome to the blog of <input type="button" value="unknown"style="background-color:black; padding:5px; color:white"> </p>
+         </div>
+        <div class="contentright">
+            <p class="description1"><img src="C:\Users\lakshanyamurugan\Downloads\picture1.jpg" width="955cm">
+            <br><br> <b><label style="font-family: lucida handwriting;padding-left: 30px ; ">TITLE HEADING</label></b><br><br><label style="padding-left: 30px;"> Title description.  April 7,2004
+            <br>
+            <br>
+    <label style="padding-left: 30px;" > Mauris neque quam. fermentum ut nisl vitae .convallis maximus nisl Sed mattis nunc id torem euismod placerat.Vivamus<br><label style="padding-left: 30px;">porttitor magna enim ,ac accumsan tortor cursus at Phasellus sed ultricies mi non congue ullam corper.Prasent tincidunt</label><br><label style="padding-left: 30px;"> sed tellus ut rutrum.Sed vitae condimentum,porta lectus vitae, ultricies congue gravida diam non fringilla<br></label>
+        <br> <label style="padding-left: 30px;"> <input type="button" value="READ MORE>>" style="background-color: white; padding:10px; border-color: gainsboro;"></label> </label>
+    <label class="comment"><b>Comments</b> <input type="button" value="0" style="background-color:black; padding:5px; border-color: gainsboro; color:white"> </label>        </p>
+        
+       <p class="description2"><img src="C:\Users\lakshanyamurugan\Downloads\picture3.jpg" width="100%"><br><br><label style="font-family:lucida handwriting ;padding-left:30px"><b>BLOG ENTRY</b></label><br><br><label style="padding-left: 30px;"> Title description.  April 2,2004</label>
+       <br>
+       <br>
+       <label style="padding-left: 30px;">   Mauris neque quam. fermentum ut nisl vitae .convallis maximus nisl Sed mattis nunc id torem euismod placerat.Vivamus</label><br><label style="padding-left: 30px;"> porttitor magna enim ,ac accumsan tortor cursus at Phasellus sed ultricies mi non congue ullam corper.Prasent tincidunt</label><br><label style="padding-left: 30px;">  tellus ut rutrum.Sed vitae condimentum,porta lectus vitae, ultricies congue gravida diam non fringilla<br></label>
+        <br>  <label style="padding-left: 30px;">  <input type="button" value="READ MORE>>" style="background-color: white; padding:10px; border-color: gainsboro;"> </label>
+          <label class="comment"><b>Comments</b> <input type="button" value="2" style="background-color:black; padding:5px; border-color: gainsboro; color:white; margin-right: 45px;"> </label>
+    </p>                                                                                                                                                                                                                  
+       <br><br><br>
+       </div>
+       </div>
+       <div class="contentleft">
+      <img src="C:\Users\lakshanyamurugan\Downloads\picture2.jpg"width=100% border:1px solid white;"><br><p style="background-color: white; padding-left: 30px;"><br><b>My Name</b><br><br>Just me,myself and I ,exploring the universe of<br> unknownment I have a heart of love and a interest of<br> lorem ipsum and mauris neque quam blog.I want to<br> share my world with you.
+    
+</p><br>
+
+     <h2 style="background-color: gainsboro; font-family: Lucida calligraphy;">Popular post<br></h2>
+     <p><img src="C:\Users\lakshanyamurugan\Downloads\picture4.jpg" style=  float:left; width="50px" height="50px">Lorem<br>Sed mattis nunc</p>
+        
+        <hr>
+      <p><img src="C:\Users\lakshanyamurugan\Downloads\picture5.jpg" style="float:left"   width="50px" height="50px"> Ipaum<br>Praes tinci sed</p>
+    
+    <hr>
+    <p><img src="C:\Users\lakshanyamurugan\Downloads\picture6.jpg"  style="float:left" width="50px" height="50px"> Dorum <br>Ultricies congue</p>
+    
+    <hr>
+    <p><img src="C:\Users\lakshanyamurugan\Downloads\picture7.jpg"  style="float:left"  width="50px" height="50px">Mingsum<br> Lorem ipsum dipsum</p>
+    <hr>
+       
+       <div class="tags">
+        <h2 style="background-color: gainsboro;font-family: Lucida calligraphy; ">Tags<br></h2>
+        
+        <input type="button" value="Travel" style="background-color:black; padding:10px; color:white; border-radius:5px ; ">
+        <input type="button" value="New York" style="background-color:gainsboro; padding:10px; color:black; border-color: gainsboro; border-radius:5px ;">
+        <input type="button" value="London" style="background-color:pink; padding:10px; color:black; border-color: gainsboro;border-radius:5px ;">
+        
+        <input type="button" value="IKEA" style="background-color:gainsboro; padding:10px; color:black; border-color: pink;border-radius:5px ;">
+        <input type="button" value="NORWAY" style="background-color:pink; padding:10px; color:black; border-color: gainsboro;border-radius:5px ;"><br><br>
+        <input type="button" value="DIY" style="background-color:gainsboro; padding:10px; color:black; border-color: pink;border-radius:5px ;">    
+        <input type="button" value="Ideas" style="background-color:pink; padding:10px; color:black; border-color: gainsboro;border-radius:5px ;">
+        <input type="button" value="Baby" style="background-color:gainsboro; padding:10px; color:black; border-color:pink;border-radius:5px ;">
+        <input type="button" value="Family" style="background-color:pink; padding:10px; color:black; border-color: gainsboro;border-radius:5px ;">
+        <input type="button" value="News" style="background-color:gainsboro; padding:10px; color:black; border-color: pink;border-radius:5px ;"><br><br>
+        <input type="button" value="Clothing" style="background-color:pink; padding:10px; color:black; border-color: gainsboro;border-radius:5px ;">
+        <input type="button" value="Shopping" style="background-color:gainsboro; padding:10px; color:black; border-color:pink;border-radius:5px ;">
+        <input type="button" value="Sports" style="background-color:pink; padding:10px; color:black; border-color: gainsboro;border-radius:5px ;">
+        <input type="button" value="Games" style="background-color:gainsboro; padding:10px; color:black; border-color:pink;border-radius:5px ;"><br><br>
+      </div>  
+
+    </div>
+       </div>
+       <div class="footer" style="padding-left:30px ;">
+       <p class="last"><br><br>
+       <input type="button" value="Previous" style="background-color:rgba(128, 128, 128, 0.342); padding:10px; color:white">
+       <input type="button" value="Next" style="background-color:rgba(128, 128, 128, 0.342); padding-top:10px;padding-bottom: 10px;padding-left: 17px; padding-right:17px;color:white">
+       <br><br>
+        </p>
+        <br>
+       </div>
+    </body>
+  </html>
