@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lakshanya - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        header h1 {
+            margin: 0;
+        }
+
+        #about {
+            padding: 2em;
+        }
+
+        #about img {
+            border-radius: 50%;
+            max-width: 100%;
+            height: auto;
+        }
+
+        #skills, #projects, #resume, #contact {
+            padding: 2em;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Lakshanya</h1>
+        <p>Web Developer</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        
+        <p>
+            . Proficient in front-end technologies such as HTML, CSS, and JavaScript, with a strong foundation in responsive design and front-end frameworks like React and Vue.js. Adept at collaborating with cross-functional teams to analyze requirements, design innovative solutions, and implement features that enhance the user experience. Demonstrated ability to troubleshoot and optimize code for performance and scalability. Passionate about staying updated with the latest web development trends and technologies.
+        </p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>JavaScript</li>
+            <li>Responsive Web Design</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Project Title 1</h3>
+            <p>Description of Project 1.</p>
+            
+        </div>
+        <div class="project">
+            <h3>Project Title 2</h3>
+            <p>Description of Project 2.</p>
+            
+        </div>
+    </section>
+
+    <section id="resume">
+        <h2>Resume</h2>
+        <p><a href="your-resume.pdf" target="_blank">Download Resume (PDF)</a></p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: email@example.com</p>
+        <p>Phone: +123 456 7890</p>
+    </section>
+
+    <footer>
+        <p>Lakshanya; 2024 Your Name. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
